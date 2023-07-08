@@ -1,0 +1,7 @@
+C:\Users\bhekanimasinga\Documents\ass5Assessment11\ass5Assessment11\bin\Debug\ass5Assessment11.exe.config
+C:\Users\bhekanimasinga\Documents\ass5Assessment11\ass5Assessment11\bin\Debug\ass5Assessment11.exe
+C:\Users\bhekanimasinga\Documents\ass5Assessment11\ass5Assessment11\bin\Debug\ass5Assessment11.pdb
+C:\Users\bhekanimasinga\Documents\ass5Assessment11\ass5Assessment11\obj\Debug\ass5Assessment11.csproj.AssemblyReference.cache
+C:\Users\bhekanimasinga\Documents\ass5Assessment11\ass5Assessment11\obj\Debug\ass5Assessment11.csproj.CoreCompileInputs.cache
+C:\Users\bhekanimasinga\Documents\ass5Assessment11\ass5Assessment11\obj\Debug\ass5Assessment11.exe
+C:\Users\bhekanimasinga\Documents\ass5Assessment11\ass5Assessment11\obj\Debug\ass5Assessment11.pdb

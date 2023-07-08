@@ -1,0 +1,7 @@
+C:\Users\bhekanimasinga\Documents\ass5Assessment13\ass5Assessment13\obj\Debug\ass5Assessment13.csproj.CoreCompileInputs.cache
+C:\Users\bhekanimasinga\Documents\ass5Assessment13\ass5Assessment13\bin\Debug\ass5Assessment13.exe.config
+C:\Users\bhekanimasinga\Documents\ass5Assessment13\ass5Assessment13\bin\Debug\ass5Assessment13.exe
+C:\Users\bhekanimasinga\Documents\ass5Assessment13\ass5Assessment13\bin\Debug\ass5Assessment13.pdb
+C:\Users\bhekanimasinga\Documents\ass5Assessment13\ass5Assessment13\obj\Debug\ass5Assessment13.exe
+C:\Users\bhekanimasinga\Documents\ass5Assessment13\ass5Assessment13\obj\Debug\ass5Assessment13.pdb
+C:\Users\bhekanimasinga\Documents\ass5Assessment13\ass5Assessment13\obj\Debug\ass5Assessment13.csproj.AssemblyReference.cache
